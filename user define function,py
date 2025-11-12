@@ -1,0 +1,5 @@
+# user defined function
+def aiml(a, b):
+  c=a+b
+  print(c)
+aiml(5,5)
